@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>MAT</title>
+<style>
+body {background-color: #d5dde8}
+img {width: 400px;
+border-radius: 20px}
+</style>
+</head>
+<body>
+<center><h1>Matemáticas I</h1></center>
+<dl>
+<dt>Profesor:</dt><dd>Sergio Pequeño Boter</dd>
+<dt>Actividades desarrolladas:</dt>
+<dd><ul><li>En esta asignatura se aprenden las herramientas necesarias básicas para la resolución de los diferentes tipos de ecuaciones, inecuaciones, y sistemas de 2 y 3 ecuaciones.</li>
+<li>Se estudian los números reales, potencias, radicales y logaritmos.</li>
+<li>Se aprende a resolver diferentes tipos de polinomios y expresiones algebraicas.</li>
+<li>Se conocen los diferentes tipos de funciones, dominios, límites, asíntotas y conceptos básicos sobre representación gráfica de funciones.</li>
+<li>Se toma contacto con el cálculo de funciones derivadas y sus aplicaciones que te permitirán afrontar con éxito los bloques dedicados a <a href="https://es.wikipedia.org/wiki/An%C3%A1lisis_matem%C3%A1tico">Análisis</a> en cursos posteriores.</li>
+<li>Se aprende también a resolver ecuaciones trigonométricas, resolución de triángulos y números complejos.</li>
+<li>Finalmente, se aprenden algunos conceptos y herramientas para el estudio de las funciones cónicas; ecuaciones de la circunferencia, la elipse, la hipérbola y la parábola.</li></ul></dd></dl><br>
+<center><img src="https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/164EE/production/_109347319_gettyimages-611195980.jpg" alt="Cálculos matemáticos"></center>
+</body>
+</html>
